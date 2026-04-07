@@ -2,7 +2,7 @@
   <p align="center">
   <img src="https://raw.githubusercontent.com/Nazmul-4/Nazmul-4/main/1751231068709.jpg" width="100%" />
 </p>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Md. Nazmul Hasan</h1>
 <h3 align="center">CSE Graduate | Aspiring Full-Stack Developer | MERN Stack Learner | Research Enthusiast</h3>
