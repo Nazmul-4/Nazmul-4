@@ -59,17 +59,22 @@
 
 ### 🍽️ FoodMate  
 A full-stack food-related platform with authentication, database integration, backend API, and admin role support.  
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase  
+🔗 **Live Demo:** [Click Here](https://foodmate-2d2d9.web.app/)  
+
+---
 
 ### 🍲 PlateShare  
-A full-stack web application with user authentication, REST API, database support, and admin functionality.  
-**Tech:** React, Node.js, Express.js, MongoDB, Firebase
+A full-stack web application where users can share and explore food-related content with authentication and database integration.  
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase  
+🔗 **Live Demo:** [Click Here](https://candid-macaron-cdb644.netlify.app/)  
+
+---
 
 ### 🐾 WarmPaws  
-A project focused on building an engaging and useful platform with clean UI and real-world problem solving.  
-**Tech:** React, Tailwind CSS, Firebase
-
-> Replace these descriptions later with your real live links and repository links.
+A modern and responsive web platform focused on pet-related services with clean UI and user-friendly experience.  
+**Tech:** React, Tailwind CSS, Firebase  
+🔗 **Live Demo:** [Click Here](https://steady-hummingbird-d41f80.netlify.app/)  
 
 ---
 
