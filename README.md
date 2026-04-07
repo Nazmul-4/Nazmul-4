@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Nazmul%20Hasan&fontSize=35&fontColor=ffffff&animation=fadeIn](https://raw.githubusercontent.com/Nazmul-4/Nazmul-4/main/1751231068709.jpg)" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Nazmul-4/Nazmul-4/main/1751231068709.jpg" width="100%" />
+</p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Nazmul Hasan</h1>
