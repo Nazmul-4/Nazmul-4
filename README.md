@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Nazmul%20Hasan&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md. Nazmul Hasan</h1>
 <h3 align="center">CSE Graduate | Aspiring Full-Stack Developer | MERN Stack Learner | Research Enthusiast</h3>
 
