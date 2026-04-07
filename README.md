@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nazmul-4/Nazmul-4/main/1751231068709.jpg" width="100%" height="550px" style="object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/Nazmul-4/Nazmul-4/main/1751231068709.jpg" width="65%" height="550px" style="object-fit: cover;" />
 </p>
 
 
